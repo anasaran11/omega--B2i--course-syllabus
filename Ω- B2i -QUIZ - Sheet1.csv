@@ -182,7 +182,27 @@ course_1,ch_1_01,les_1_01_09,topic_1_01_09_01,quiz_1_01_09_5,What are the three 
 B) Strategic thinking, systemic awareness, and narrative leadership |
 C) Technical expertise, communication skills, and decision-making ability |
 D) Risk assessment, resource allocation, and performance measurement",B
-,,,,,,,
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_1,What are the five critical areas of focus in systematic data integrity auditing?,"A) Planning activities, executing tasks, documenting results, reviewing findings, and granting approvals |
+B) Verifying metadata, matching source data, reviewing change controls, assessing security, and confirming archival integrity |
+C) Creating data, storing information, retrieving records, analyzing content, and disposing of materials |
+D) Managing input, handling processing, producing output, gathering feedback, and applying control measures",B
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_2,"According to the lesson, what are the three critical outcomes ensured by the Deviation to CAPA lifecycle?","A) Identifying the true root cause, neutralizing risks immediately, and reinforcing systems to prevent recurrence |
+B) Achieving cost reduction, improving efficiency, and maintaining basic compliance standards |
+C) Completing documentation, delivering required training, and preparing for future audit readiness |
+D) Driving process improvement, allocating resources effectively, and measuring overall performance levels",A
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_3,What is the key difference between version changes and revision changes?,"A) Version changes are approved by management, revision changes are not |
+B) Version changes are major procedural alterations, revision changes are minor editorial corrections |
+C) Version changes cost more money than revision changes |
+D) There is no difference between version and revision changes",B
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_4,"What is the primary difference between SOPs (Standard Operating Procedures) and Work Instructions in a QMS framework?
+","A) SOPs are more important than Work Instructions |
+B) SOPs are manuals; Work Instructions are step-by-step guides |
+C) Work Instructions are strategic; SOPs are tactical |
+D) There is no difference between them.",B
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_01,quiz_1_01_10_5,Which principle emphasizes that speed is more important than completeness in deviation reporting?,"A) ""If uncertain, report immediately"" |
+B) ""Speed beats perfection – A quick, incomplete report is better than a perfect one submitted late"" |
+C) ""Documentation is organizational protection"" |
+D) ""Prevention is better than correction""",B
 course_1,ch_1_02,les_1_02_01,topic_1_02_01_01,quiz_1_02_01_1,What is the primary function of a hospital’s Quality Management System (QMS)?,"A) To schedule staff shifts and ward assignments |
 B) To document processes, responsibilities, and procedures for quality care and patient safety |
 C) To manage hospital finances and budgets |
