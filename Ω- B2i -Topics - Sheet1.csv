@@ -8,6 +8,15 @@ course_1,ch_1_01,les_1_01_06,topic_1_01_06_1,Defend the Lab – OOS/OOT Identifi
 course_1,ch_1_01,les_1_01_07,topic_1_01_07_1,Guard the Data – ALCOA+ & Data Integrity Auditing,https://www.youtube.com/watch?v=oBztDkHzpWY,"Learn how to protect your organization’s data with ALCOA+ principles and data integrity auditing. This video explains the pillars of data integrity—Attributable, Legible, Contemporaneous, Original, Accurate, plus additional criteria—and provides practical tips for effective audits. Essential viewing for lab professionals and quality managers!",1
 course_1,ch_1_01,les_1_01_08,topic_1_01_08_1,Full-Scale Operation – Deviation to CAPA Lifecycle Simulation,https://www.youtube.com/watch?v=jIEbLMx4QIE,"Experience a full-scale quality operation with this simulation of the entire lifecycle from deviation detection to CAPA implementation. This video walks you through each step—identifying a deviation, investigating the root cause, drafting CAPA, and ensuring follow-up—offering practical insights for managing quality events efficiently. Ideal for quality assurance professionals and teams!",1
 course_1,ch_1_01,les_1_01_09,topic_1_01_09_1,The War Game – Integrated QA/QC Crisis Assignment,https://www.youtube.com/watch?v=qBimzO6lthA,"Step into “The War Game” with an integrated QA/QC crisis assignment simulation. This video challenges you to handle real-world quality assurance and quality control emergencies, coordinating rapid responses, investigations, and solutions. Build teamwork, sharpen decision-making, and prepare for any QA/QC crisis!",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_1,Entering the Battlefield – QMS Basics & SOP Gap Review,https://www.youtube.com/watch?v=rAfeJBhGwYQ,"Unlock the essentials of Quality Management Systems (QMS) and discover how to identify and fix SOP gaps. This video provides quick, practical insights to boost your organization’s quality and compliance. Perfect for beginners and quality professionals!",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_2,Control the Arsenal – Document Versioning & Register Mastery,https://www.youtube.com/watch?v=-WWk8gdnqCc,"Master the art of document control with this guide on versioning and register management. Learn how to keep your records accurate, up-to-date, and audit-ready, ensuring your organization stays compliant and efficient. Perfect for anyone managing quality or regulatory documents!",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_3,Spot the Breach – Deviation Detection & Rapid Reporting,https://www.youtube.com/watch?v=JvIG72rXh6Y,"Quickly identify deviations and learn rapid reporting techniques to protect your organization’s quality standards. This video covers practical methods to spot breaches early and streamline incident reporting, helping you maintain compliance and prevent bigger issues. Ideal for quality teams and process owners!",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_4,Strike Back – Root Cause Analysis & CAPA Drafting,https://www.youtube.com/watch?v=f_-7oeQJJi0,"Learn how to tackle problems head-on with effective Root Cause Analysis and CAPA drafting. This video shows you how to uncover the real issues behind deviations and create strong corrective and preventive action plans, keeping your quality system robust and proactive. Perfect for professionals aiming to drive continual improvement",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_5,First Combat Drill – Internal Audit & Document Inspection Simulation,https://www.youtube.com/watch?v=9mNaAf98Ce8,"Step into your first quality combat drill with an engaging simulation of internal audits and document inspections. This video guides you through practical techniques for auditing and reviewing documents, helping you build confidence and sharpen your skills for real-world compliance challenges. Ideal for beginners and aspiring auditors!",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_6,Defend the Lab – OOS/OOT Identification & First-line Investigation,https://www.youtube.com/watch?v=rj0NVCIxpKc,"Strengthen your lab’s defenses by mastering OOS (Out of Specification) and OOT (Out of Trend) identification and first-line investigations. This video teaches you how to spot unusual results quickly and initiate effective preliminary actions, safeguarding data integrity and compliance. Perfect for analysts and lab supervisors!",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_7,Guard the Data – ALCOA+ & Data Integrity Auditing,https://www.youtube.com/watch?v=oBztDkHzpWY,"Learn how to protect your organization’s data with ALCOA+ principles and data integrity auditing. This video explains the pillars of data integrity—Attributable, Legible, Contemporaneous, Original, Accurate, plus additional criteria—and provides practical tips for effective audits. Essential viewing for lab professionals and quality managers!",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_8,Full-Scale Operation – Deviation to CAPA Lifecycle Simulation,https://www.youtube.com/watch?v=jIEbLMx4QIE,"Experience a full-scale quality operation with this simulation of the entire lifecycle from deviation detection to CAPA implementation. This video walks you through each step—identifying a deviation, investigating the root cause, drafting CAPA, and ensuring follow-up—offering practical insights for managing quality events efficiently. Ideal for quality assurance professionals and teams!",1
+course_1,ch_1_01,les_1_01_10,topic_1_01_10_9,The War Game – Integrated QA/QC Crisis Assignment,https://www.youtube.com/watch?v=qBimzO6lthA,"Step into “The War Game” with an integrated QA/QC crisis assignment simulation. This video challenges you to handle real-world quality assurance and quality control emergencies, coordinating rapid responses, investigations, and solutions. Build teamwork, sharpen decision-making, and prepare for any QA/QC crisis!",1
 course_1,ch_1_02,les_1_02_01,topic_1_02_01_1,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,https://www.youtube.com/watch?v=KQ0IWnrakRQ,"Introduces the hospital QMS framework and accreditation standards to ensure consistent, high-quality care delivery. Strengthens compliance, quality assurance, and drives continuous improvement across all clinical operations.",1
 course_1,ch_1_02,les_1_02_02,topic_1_02_02_1,Code Control – SOP Command Chains & Access Authority,https://www.youtube.com/watch?v=L2NNbN50B9Y,"Defines structured SOP chains and access authority to maintain operational discipline. Ensures accountability, compliance, and secure execution of critical healthcare protocols.",1
 course_1,ch_1_02,les_1_02_03,topic_1_02_03_1,Vitals Check – Patient Safety Indicators & Risk Flagging,https://www.youtube.com/watch?v=5OxvXhI69Wo,Enables real-time monitoring of key health parameters with early warning alerts. Supports timely interventions to improve patient safety and clinical outcomes.,1
@@ -57,7 +66,6 @@ course_1,ch_1_06,les_1_06_07,topic_1_06_07_1,Evidence Intelligence – AI-Suppor
 course_1,ch_1_06,les_1_06_08,topic_1_06_08_1,"System Defense – Integrating CAPA with QMS, LIMS & eTMF Platforms",https://www.youtube.com/watch?v=_oufzayrB1I,"Integrating CAPA with QMS, LIMS, and eTMF platforms ensures seamless compliance. It centralizes data for efficiency and audit readiness.",1
 course_1,ch_1_06,les_1_06_09,topic_1_06_09_1,Audit Heat – CAPA Case Studies Under FDA/WHO Inspection Pressure,https://www.youtube.com/watch?v=EFiCnWnJLpE,CAPA case studies under regulatory scrutiny reveal best practices. They highlight strategies to maintain compliance under inspection pressure.,1
 course_1,ch_1_06,les_1_06_10,topic_1_06_10_1,The CAPA War Room – AI-Simulated Escalation & Full CAPA Closure Drill,https://www.youtube.com/watch?v=XoBIXpkZgwg,"AI-driven simulations test full CAPA escalation and closure. They enhance readiness, decision-making, and process control.",1
-,,,,,,,
 course_2,ch_2_01,les_2_01_01,topic_2_01_01_1,Introduction to Pharmacovigilance,https://www.youtube.com/watch?v=zqmm6wThH10,"The science of detecting, assessing, and preventing adverse effects of medicines to ensure patient safety.",1
 course_2,ch_2_01,les_2_01_02,topic_2_01_02_1,History & Evolution of PV,https://www.youtube.com/watch?v=mLW95p1FDjY,Traces the development of drug safety monitoring from early case reports to today’s global systems.,1
 course_2,ch_2_01,les_2_01_03,topic_2_01_03_1,Global PV Regulatory Bodies,https://www.youtube.com/watch?v=bgV_OkPXxIs,Overview of international authorities governing pharmacovigilance standards and compliance.,1
@@ -76,7 +84,6 @@ course_2,ch_2_01,les_2_01_10,topic_2_01_10_6,AI in PV Research,https://www.youtu
 course_2,ch_2_01,les_2_01_10,topic_2_01_10_7,PV Roles & Responsibilities,https://www.youtube.com/watch?v=fkWe-2b_jF0,Defines key functions of professionals ensuring compliance and data accuracy in PV systems.,7
 course_2,ch_2_01,les_2_01_10,topic_2_01_10_8,Introduction to MedDRA,https://www.youtube.com/watch?v=HWek_3TYXyk,Overview of the global medical terminology used for coding and classifying adverse events.,8
 course_2,ch_2_01,les_2_01_10,topic_2_01_10_9,PV Documentation Essentials,https://www.youtube.com/watch?v=-MnBUZgRDkI,"Core principles for maintaining accurate, compliant, and auditable safety records.",9
-,,,,,,,
 course_2,ch_2_02,les_2_02_01,topic_2_02_01_1,ICSR Overview & Structure,https://www.youtube.com/watch?v=OU8aBf4eNPQ,Breakdown of the components and purpose of Individual Case Safety Reports in PV.,1
 course_2,ch_2_02,les_2_02_02,topic_2_02_02_1,Adverse Event (AE) Case Intake Process,https://www.youtube.com/watch?v=gXHduBhy0ss,Stepwise capture and validation of safety information from initial reports.,1
 course_2,ch_2_02,les_2_02_03,topic_2_02_03_1,Source Document Review,https://www.youtube.com/watch?v=l4VAm1SJiDM,Systematic evaluation of original medical data to verify and support safety case details.,1
@@ -108,7 +115,6 @@ course_2,ch_2_04,les_2_04_07,topic_2_04_07_1,Disproportionality Analysis,https:/
 course_2,ch_2_04,les_2_04_08,topic_2_04_08_1,Signal Reporting Standards,https://www.youtube.com/watch?v=,"Global guidelines for documenting, communicating, and escalating validated safety signals.",1
 course_2,ch_2_04,les_2_04_09,topic_2_04_09_1,Risk Minimization Strategies,https://www.youtube.com/watch?v=,Targeted actions like labeling updates or restricted use programs to reduce identified medication risks.,1
 course_2,ch_2_04,les_2_04_10,topic_2_04_10_1,Signal Dashboards,https://www.youtube.com/watch?v=,Interactive tools visualizing real-time safety trends for informed decision making in pharmacovigilance.,1
-,,,,,,,
 course_2,ch_2_05,les_2_05_01,topic_2_05_01_1,PSUR Overview & Requirements,https://www.youtube.com/watch?v=,Key elements and regulatory expectations for periodic safety update reports on marketed products.,1
 course_2,ch_2_05,les_2_05_02,topic_2_05_02_1,DSUR Basics & Timelines,https://www.youtube.com/watch?v=,Fundamentals of development safety update reports and their annual submission schedule in clinical development.,1
 course_2,ch_2_05,les_2_05_03,topic_2_05_03_1,Data Aggregation for Reports,https://www.youtube.com/watch?v=,Compiling global safety data from multiple sources to support accurate periodic reporting.,1
@@ -119,7 +125,6 @@ course_2,ch_2_05,les_2_05_07,topic_2_05_07_1,DSUR Case Study Analysis,https://ww
 course_2,ch_2_05,les_2_05_08,topic_2_05_08_1,Regulatory Submission of Reports,https://www.youtube.com/watch?v=,Electronic handoff of safety update documents using standardized global submission formats.,1
 course_2,ch_2_05,les_2_05_09,topic_2_05_09_1,Handling PSUR Queries,https://www.youtube.com/watch?v=,Responding to authority questions with clarified data and supporting evidence.,1
 course_2,ch_2_05,les_2_05_10,topic_2_05_10_1,Periodic Report Automation,https://www.youtube.com/watch?v=,Streamlining workflows with tools that schedule data pulls and generate recurring safety reports.,1
-,,,,,,,
 course_2,ch_2_06,les_2_06_01,topic_2_06_01_1,MedDRA Hierarchy Overview,https://www.youtube.com/watch?v=,Understanding the structured layers of MedDRA from detailed LLTs up to broad SOC classifications.,1
 course_2,ch_2_06,les_2_06_02,topic_2_06_02_1,"LLT, PT, and SOC Coding",https://www.youtube.com/watch?v=,Correctly assigning medical terms to the right hierarchy levels for consistent safety reporting.,1
 course_2,ch_2_06,les_2_06_03,topic_2_06_03_1,AI for MedDRA Auto-Coding,https://www.youtube.com/watch?v=,Using intelligent tools to map clinical terms to MedDRA codes faster and with fewer errors.,1
@@ -130,7 +135,6 @@ course_2,ch_2_06,les_2_06_07,topic_2_06_07_1,Follow-Up Case Processing,https://w
 course_2,ch_2_06,les_2_06_08,topic_2_06_08_1,Coding Error Resolution,https://www.youtube.com/watch?v=,Detecting incorrect terms and applying the right fixes to maintain data integrity.,1
 course_2,ch_2_06,les_2_06_09,topic_2_06_09_1,MedDRA Version Updates,https://www.youtube.com/watch?v=,Adapting coding practices to align with each new MedDRA release.,1
 course_2,ch_2_06,les_2_06_10,topic_2_06_10_1,Case Quality Dashboards,https://www.youtube.com/watch?v=,"Visual tools that track completeness, coding accuracy, and timeliness across PV cases.",1
-,,,,,,,
 course_3,ch_3_01,les_3_01_01,topic_3_01_01_1,Introduction to Clinical Research.,https://www.youtube.com/watch?v=,Systematic investigations on humans to evaluate the safety and effectiveness of medical interventions.,1
 course_3,ch_3_01,les_3_01_02,topic_3_01_02_1,History & Evolution of Clinical Trials.,https://www.youtube.com/watch?v=,"A journey from early experimental treatments to today’s highly regulated, science-driven studies.",1
 course_3,ch_3_01,les_3_01_03,topic_3_01_03_1,Roles in a Clinical Trial Team.,https://www.youtube.com/watch?v=,"Diverse professionals collaborating to design, run, monitor, and report clinical studies responsibly.",1
@@ -141,7 +145,6 @@ course_3,ch_3_01,les_3_01_07,topic_3_01_07_1,"Trial Types & Designs (RCTs, Obser
 course_3,ch_3_01,les_3_01_08,topic_3_01_08_1,Basics of Trial Documentation.,https://www.youtube.com/watch?v=,"Essential records like protocols, CRFs, and consent forms that support transparent and valid research.",1
 course_3,ch_3_01,les_3_01_09,topic_3_01_09_1,Introduction to AI in Clinical Research.,https://www.youtube.com/watch?v=,"Intelligent tools helping optimize trial design, recruitment, and real-time data analysis.",1
 course_3,ch_3_01,les_3_01_10,topic_3_01_10_1,GCP Audit Trails Basics.,https://www.youtube.com/watch?v=,Tracking every change in clinical data systems to ensure accountability and compliance.,1
-,,,,,,,
 course_3,ch_3_02,les_3_02_01,topic_3_02_01_1,Protocol Structure Overview.,https://www.youtube.com/watch?v=,A roadmap describing how a clinical trial will be conducted from start to finish.,1
 course_3,ch_3_02,les_3_02_02,topic_3_02_02_1,Objectives & Endpoints.,https://www.youtube.com/watch?v=,Clearly defined goals and measurable outcomes that determine the study’s success.,1
 course_3,ch_3_02,les_3_02_03,topic_3_02_03_1,Study Population & Inclusion/Exclusion.,https://www.youtube.com/watch?v=,Criteria specifying who can or cannot participate to ensure valid and ethical selection.,1
@@ -152,7 +155,6 @@ course_3,ch_3_02,les_3_02_07,topic_3_02_07_1,AI-Assisted Protocol Writing.,https
 course_3,ch_3_02,les_3_02_08,topic_3_02_08_1,Protocol Amendments.,https://www.youtube.com/watch?v=,Controlled updates reflecting scientific changes or new safety information during the study.,1
 course_3,ch_3_02,les_3_02_09,topic_3_02_09_1,Statistical Considerations in Protocols.,https://www.youtube.com/watch?v=,Planned methods for analyzing data to ensure reliable conclusions.,1
 course_3,ch_3_02,les_3_02_10,topic_3_02_10_1,Protocol Review & Approval.,https://www.youtube.com/watch?v=,Regulatory and ethics committee checks ensuring compliance before a trial begins.,1
-,,,,,,,
 course_3,ch_3_03,les_3_03_01,topic_3_03_01_1,Site Selection Criteria.,https://www.youtube.com/watch?v=,"Choosing trial locations that meet patient access, quality standards, and operational capability.",1
 course_3,ch_3_03,les_3_03_02,topic_3_03_02_1,Feasibility Assessments.,https://www.youtube.com/watch?v=,"Evaluating a site’s resources, timelines, and patient pool to ensure successful study execution.",1
 course_3,ch_3_03,les_3_03_03,topic_3_03_03_1,Investigator Qualification.,https://www.youtube.com/watch?v=,"Confirming that site investigators have the expertise and credentials to lead safe, ethical research.",1
@@ -163,7 +165,6 @@ course_3,ch_3_03,les_3_03_07,topic_3_03_07_1,AI in Site Feasibility.,https://www
 course_3,ch_3_03,les_3_03_08,topic_3_03_08_1,Training Site Staff.,https://www.youtube.com/watch?v=,"Ensuring everyone understands protocol, GCP, and operational workflows before recruitment begins.",1
 course_3,ch_3_03,les_3_03_09,topic_3_03_09_1,Site Activation Checklists.,https://www.youtube.com/watch?v=,"Final readiness checks for systems, supplies, staff, and documentation.",1
 course_3,ch_3_03,les_3_03_10,topic_3_03_10_1,Common Start-Up Pitfalls.,https://www.youtube.com/watch?v=,"Avoidable delays like slow contracting, missing approvals, or inadequate site preparation.",1
-,,,,,,,
 course_3,ch_3_04,les_3_04_01,topic_3_04_01_1,Recruitment Strategies Overview.,https://www.youtube.com/watch?v=,Plans to attract and enroll the right participants efficiently for the trial.,1
 course_3,ch_3_04,les_3_04_02,topic_3_04_02_1,Patient Eligibility Screening.,https://www.youtube.com/watch?v=,Checking whether candidates meet all criteria for safe and valid participation.,1
 course_3,ch_3_04,les_3_04_03,topic_3_04_03_1,Informed Consent Process.,https://www.youtube.com/watch?v=,Ensuring participants fully understand the study before voluntarily agreeing to join.,1
@@ -174,7 +175,6 @@ course_3,ch_3_04,les_3_04_07,topic_3_04_07_1,Consent Documentation.,https://www.
 course_3,ch_3_04,les_3_04_08,topic_3_04_08_1,Handling Recruitment Challenges.,https://www.youtube.com/watch?v=,"Practical fixes for slow enrollment, communication gaps, or logistical issues.",1
 course_3,ch_3_04,les_3_04_09,topic_3_04_09_1,Metrics & Reporting Recruitment.,https://www.youtube.com/watch?v=,"Tracking progress with data on screening, enrollment, and dropouts.",1
 course_3,ch_3_04,les_3_04_10,topic_3_04_10_1,Ethical AI in Recruitment.,https://www.youtube.com/watch?v=,Applying automation responsibly without bias or privacy risks to participants.,1
-,,,,,,,
 course_3,ch_3_05,les_3_05_01,topic_3_05_01_1,CRF Design Principles.,https://www.youtube.com/watch?v=,"Creating user-friendly forms that capture accurate, protocol-required data only.",1
 course_3,ch_3_05,les_3_05_02,topic_3_05_02_1,"Data Collection Methods (EDC, Paper).",https://www.youtube.com/watch?v=,Different ways clinical trial data is recorded and transferred into secure systems.,1
 course_3,ch_3_05,les_3_05_03,topic_3_05_03_1,Source Data Verification (SDV).,https://www.youtube.com/watch?v=,Comparing CRF entries against original medical records to ensure correctness.,1
@@ -185,7 +185,6 @@ course_3,ch_3_05,les_3_05_07,topic_3_05_07_1,Handling Missing Data.,https://www.
 course_3,ch_3_05,les_3_05_08,topic_3_05_08_1,Data Security & Confidentiality.,https://www.youtube.com/watch?v=,Protecting participant information through access controls and encryption.,1
 course_3,ch_3_05,les_3_05_09,topic_3_05_09_1,CRF Amendments & Versions.,https://www.youtube.com/watch?v=,Controlled updates to forms while maintaining traceability of earlier data.,1
 course_3,ch_3_05,les_3_05_10,topic_3_05_10_1,Intro to EDC Systems.,https://www.youtube.com/watch?v=,Overview of electronic platforms that streamline data entry and monitoring in real time.,1
-,,,,,,,
 course_3,ch_3_06,les_3_06_01,topic_3_06_01_1,Monitoring Plan Development.,https://www.youtube.com/watch?v=,Tailoring a strategy to ensure participant safety and protocol compliance throughout the trial.,1
 course_3,ch_3_06,les_3_06_02,topic_3_06_02_1,On-Site vs. Remote Monitoring.,https://www.youtube.com/watch?v=,Comparing physical visits with virtual review approaches for efficient oversight.,1
 course_3,ch_3_06,les_3_06_03,topic_3_06_03_1,Site Visits & Inspections.,https://www.youtube.com/watch?v=,Scheduled evaluations to confirm data accuracy and adherence to GCP requirements.,1
@@ -196,7 +195,6 @@ course_3,ch_3_06,les_3_06_07,topic_3_06_07_1,Central vs. Local Monitoring.,https
 course_3,ch_3_06,les_3_06_08,topic_3_06_08_1,Escalation Procedures.,https://www.youtube.com/watch?v=,Clear steps for resolving serious issues that threaten study integrity or safety.,1
 course_3,ch_3_06,les_3_06_09,topic_3_06_09_1,Monitoring Reports.,https://www.youtube.com/watch?v=,"Documentation of findings, actions, and follow-up from each monitoring activity.",1
 course_3,ch_3_06,les_3_06_10,topic_3_06_10_1,Close-Out Monitoring.,https://www.youtube.com/watch?v=,"Final verification that all data, documents, and regulatory requirements are completed before trial closure.",1
-,,,,,,,
 course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_01,les_4_01_02,topic_4_01_02_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_01,les_4_01_03,topic_4_01_03_1,,https://www.youtube.com/watch?v=,,1
@@ -206,7 +204,6 @@ course_4,ch_4_01,les_4_01_06,topic_4_01_06_1,,https://www.youtube.com/watch?v=,,
 course_4,ch_4_01,les_4_01_07,topic_4_01_07_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_01,les_4_01_08,topic_4_01_08_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_01,les_4_01_09,topic_4_01_09_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_4,ch_4_02,les_4_02_01,topic_4_02_01_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_02,les_4_02_02,topic_4_02_02_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_02,les_4_02_03,topic_4_02_03_1,,https://www.youtube.com/watch?v=,,1
@@ -217,7 +214,6 @@ course_4,ch_4_02,les_4_02_07,topic_4_02_07_1,,https://www.youtube.com/watch?v=,,
 course_4,ch_4_02,les_4_02_08,topic_4_02_08_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_02,les_4_02_09,topic_4_02_09_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_02,les_4_02_10,topic_4_02_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_4,ch_4_03,les_4_03_01,topic_4_03_01_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_03,les_4_03_02,topic_4_03_02_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_03,les_4_03_03,topic_4_03_03_1,,https://www.youtube.com/watch?v=,,1
@@ -228,7 +224,6 @@ course_4,ch_4_03,les_4_03_07,topic_4_03_07_1,,https://www.youtube.com/watch?v=,,
 course_4,ch_4_03,les_4_03_08,topic_4_03_08_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_03,les_4_03_09,topic_4_03_09_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_03,les_4_03_10,topic_4_03_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_4,ch_4_04,les_4_04_01,topic_4_04_01_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_04,les_4_04_02,topic_4_04_02_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_04,les_4_04_03,topic_4_04_03_1,,https://www.youtube.com/watch?v=,,1
@@ -239,7 +234,6 @@ course_4,ch_4_04,les_4_04_07,topic_4_04_07_1,,https://www.youtube.com/watch?v=,,
 course_4,ch_4_04,les_4_04_08,topic_4_04_08_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_04,les_4_04_09,topic_4_04_09_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_04,les_4_04_10,topic_4_04_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_4,ch_4_05,les_4_05_01,topic_4_05_01_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_05,les_4_05_02,topic_4_05_02_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_05,les_4_05_03,topic_4_05_03_1,,https://www.youtube.com/watch?v=,,1
@@ -250,7 +244,6 @@ course_4,ch_4_05,les_4_05_07,topic_4_05_07_1,,https://www.youtube.com/watch?v=,,
 course_4,ch_4_05,les_4_05_08,topic_4_05_08_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_05,les_4_05_09,topic_4_05_09_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_05,les_4_05_10,topic_4_05_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_4,ch_4_06,les_4_06_01,topic_4_06_01_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_06,les_4_06_02,topic_4_06_02_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_06,les_4_06_03,topic_4_06_03_1,,https://www.youtube.com/watch?v=,,1
@@ -261,7 +254,6 @@ course_4,ch_4_06,les_4_06_07,topic_4_06_07_1,,https://www.youtube.com/watch?v=,,
 course_4,ch_4_06,les_4_06_08,topic_4_06_08_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_06,les_4_06_09,topic_4_06_09_1,,https://www.youtube.com/watch?v=,,1
 course_4,ch_4_06,les_4_06_10,topic_4_06_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,
 course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_01,les_5_01_02,topic_5_01_02_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_01,les_5_01_03,topic_5_01_03_1,,https://www.youtube.com/watch?v=,,1
@@ -271,7 +263,6 @@ course_5,ch_5_01,les_5_01_06,topic_5_01_06_1,,https://www.youtube.com/watch?v=,,
 course_5,ch_5_01,les_5_01_07,topic_5_01_07_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_01,les_5_01_08,topic_5_01_08_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_01,les_5_01_09,topic_5_01_09_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_5,ch_5_02,les_5_02_01,topic_5_02_01_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_02,les_5_02_02,topic_5_02_02_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_02,les_5_02_03,topic_5_02_03_1,,https://www.youtube.com/watch?v=,,1
@@ -282,7 +273,6 @@ course_5,ch_5_02,les_5_02_07,topic_5_02_07_1,,https://www.youtube.com/watch?v=,,
 course_5,ch_5_02,les_5_02_08,topic_5_02_08_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_02,les_5_02_09,topic_5_02_09_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_02,les_5_02_10,topic_5_02_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_5,ch_5_03,les_5_03_01,topic_5_03_01_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_03,les_5_03_02,topic_5_03_02_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_03,les_5_03_03,topic_5_03_03_1,,https://www.youtube.com/watch?v=,,1
@@ -293,7 +283,6 @@ course_5,ch_5_03,les_5_03_07,topic_5_03_07_1,,https://www.youtube.com/watch?v=,,
 course_5,ch_5_03,les_5_03_08,topic_5_03_08_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_03,les_5_03_09,topic_5_03_09_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_03,les_5_03_10,topic_5_03_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_5,ch_5_04,les_5_04_01,topic_5_04_01_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_04,les_5_04_02,topic_5_04_02_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_04,les_5_04_03,topic_5_04_03_1,,https://www.youtube.com/watch?v=,,1
@@ -304,7 +293,6 @@ course_5,ch_5_04,les_5_04_07,topic_5_04_07_1,,https://www.youtube.com/watch?v=,,
 course_5,ch_5_04,les_5_04_08,topic_5_04_08_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_04,les_5_04_09,topic_5_04_09_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_04,les_5_04_10,topic_5_04_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_5,ch_5_05,les_5_05_01,topic_5_05_01_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_05,les_5_05_02,topic_5_05_02_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_05,les_5_05_03,topic_5_05_03_1,,https://www.youtube.com/watch?v=,,1
@@ -315,7 +303,6 @@ course_5,ch_5_05,les_5_05_07,topic_5_05_07_1,,https://www.youtube.com/watch?v=,,
 course_5,ch_5_05,les_5_05_08,topic_5_05_08_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_05,les_5_05_09,topic_5_05_09_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_05,les_5_05_10,topic_5_05_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_5,ch_5_06,les_5_06_01,topic_5_06_01_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_06,les_5_06_02,topic_5_06_02_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_06,les_5_06_03,topic_5_06_03_1,,https://www.youtube.com/watch?v=,,1
@@ -326,7 +313,6 @@ course_5,ch_5_06,les_5_06_07,topic_5_06_07_1,,https://www.youtube.com/watch?v=,,
 course_5,ch_5_06,les_5_06_08,topic_5_06_08_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_06,les_5_06_09,topic_5_06_09_1,,https://www.youtube.com/watch?v=,,1
 course_5,ch_5_06,les_5_06_10,topic_5_06_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,
 course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_01,les_6_01_02,topic_6_01_02_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_01,les_6_01_03,topic_6_01_03_1,,https://www.youtube.com/watch?v=,,1
@@ -336,7 +322,6 @@ course_6,ch_6_01,les_6_01_06,topic_6_01_06_1,,https://www.youtube.com/watch?v=,,
 course_6,ch_6_01,les_6_01_07,topic_6_01_07_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_01,les_6_01_08,topic_6_01_08_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_01,les_6_01_09,topic_6_01_09_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_6,ch_6_02,les_6_02_01,topic_6_02_01_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_02,les_6_02_02,topic_6_02_02_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_02,les_6_02_03,topic_6_02_03_1,,https://www.youtube.com/watch?v=,,1
@@ -347,7 +332,6 @@ course_6,ch_6_02,les_6_02_07,topic_6_02_07_1,,https://www.youtube.com/watch?v=,,
 course_6,ch_6_02,les_6_02_08,topic_6_02_08_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_02,les_6_02_09,topic_6_02_09_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_02,les_6_02_10,topic_6_02_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_6,ch_6_03,les_6_03_01,topic_6_03_01_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_03,les_6_03_02,topic_6_03_02_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_03,les_6_03_03,topic_6_03_03_1,,https://www.youtube.com/watch?v=,,1
@@ -358,7 +342,6 @@ course_6,ch_6_03,les_6_03_07,topic_6_03_07_1,,https://www.youtube.com/watch?v=,,
 course_6,ch_6_03,les_6_03_08,topic_6_03_08_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_03,les_6_03_09,topic_6_03_09_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_03,les_6_03_10,topic_6_03_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_6,ch_6_04,les_6_04_01,topic_6_04_01_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_04,les_6_04_02,topic_6_04_02_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_04,les_6_04_03,topic_6_04_03_1,,https://www.youtube.com/watch?v=,,1
@@ -369,7 +352,6 @@ course_6,ch_6_04,les_6_04_07,topic_6_04_07_1,,https://www.youtube.com/watch?v=,,
 course_6,ch_6_04,les_6_04_08,topic_6_04_08_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_04,les_6_04_09,topic_6_04_09_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_04,les_6_04_10,topic_6_04_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_6,ch_6_05,les_6_05_01,topic_6_05_01_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_05,les_6_05_02,topic_6_05_02_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_05,les_6_05_03,topic_6_05_03_1,,https://www.youtube.com/watch?v=,,1
@@ -380,7 +362,6 @@ course_6,ch_6_05,les_6_05_07,topic_6_05_07_1,,https://www.youtube.com/watch?v=,,
 course_6,ch_6_05,les_6_05_08,topic_6_05_08_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_05,les_6_05_09,topic_6_05_09_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_05,les_6_05_10,topic_6_05_10_1,,https://www.youtube.com/watch?v=,,1
-,,,,,,,1
 course_6,ch_6_06,les_6_06_01,topic_6_06_01_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_06,les_6_06_02,topic_6_06_02_1,,https://www.youtube.com/watch?v=,,1
 course_6,ch_6_06,les_6_06_03,topic_6_06_03_1,,https://www.youtube.com/watch?v=,,1
