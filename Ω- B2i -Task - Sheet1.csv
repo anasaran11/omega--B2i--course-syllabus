@@ -117,7 +117,6 @@ Resolve OOS: Use Deviation RCA for CAPA drafting.
 Open “Fillable Document” (CAPA Command Template).
 Fill CAPA Template: Reference Deviation ID, draft corrective/preventive actions, plan verification/closure. Submit via “Answer Portal”.
 Tip: Dashboard is your crisis command center—link IDs across forms for traceability. Prioritize patient safety (OOS) for audit readiness.",10
-,,,,,,,,,,,,,,
 course_1,ch_1_02,les_1_02_01,task_1_02_01_1,Pro Training in QA/QC ,For pharma & healthcare with enterprise-level validation systems & AI-augmented audit intelligence,Hospital Quality Command Protocols,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
 
@@ -228,7 +227,6 @@ Detail priority issue (oxygen interruption): Use Dashboard output for CAPA plann
 Open “Fillable Document” (CAPA Command Template).
 Fill CAPA Template: Reference oxygen issue Deviation ID, perform RCA, propose corrective/preventive actions, plan verification. Submit via “Answer Portal”.
 Tip: Prioritize oxygen issue for patient safety; link IDs for traceability.",10
-,,,,,,,,,,,,,,
 course_1,ch_1_03,les_1_03_01,task_1_03_01_1,Pro Training in QA/QC ,,Pharma GMP Compliance Playbook,"Blueprint of GMP – Principles, History & Core Requirements",GMP Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Priya Sharma, QA Manager. During a routine GMP audit in the Tablet Manufacturing Unit, you review the Batch Production Record (BPR-2025-045) against SOP-QA-022 (GMP Batch Documentation Protocol). You find that 4 out of 10 batch records lack operator signatures, violating GMP 21 CFR Part 211.186 (Master Production and Control Records) and risking audit failure. Dr. Sharma instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -324,7 +322,6 @@ Detail priority issue (batch records): Use Dashboard output for CAPA planning
 Open “Fillable Document” (CAPA Command Template)  
 Fill CAPA Template: Reference batch record Deviation ID, perform RCA, propose corrective/preventive actions, plan verification. Submit via “Answer Portal”  
 Tip: Prioritize batch records for USFDA compliance; link IDs for traceability",10
-,,,,,,,,,,,,,,
 course_1,ch_1_04,les_1_04_01,task_1_04_01_1,Pro Training in QA/QC ,,SOP Authoring and Validation Systems,"The SOP Arsenal – Structure, Scope & Regulatory Mandates",SOP Compliance Audit Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Tablet Manufacturing Unit, you review the SOP Registry Log (LOG-2025-049) against SOP-QA-031 (SOP Management Protocol). You find that 2 out of 10 SOPs lack a defined scope section, violating GMP 21 CFR Part 211.22 (Quality Control Unit Responsibilities) and risking audit failure. Dr. Desai instructs you to document the findings and recommend improvements using the Compliance Verification Form to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -419,7 +416,6 @@ Detail priority issue (vague SOP): Use Dashboard output for CAPA planning
 Open “Fillable Document” (CAPA Command Template)  
 Fill CAPA Template: Reference SOP Deviation ID, perform RCA, propose corrective/preventive actions, plan verification. Submit via “Answer Portal”  
 Tip: Prioritize SOP issue for audit-readiness; link IDs for traceability",10
-,,,,,,,,,,,,,,
 course_1,ch_1_05,les_1_05_01,task_1_05_01_1,Pro Training in QA/QC ,,Deviation Tracking and Root Cause Engines,Breach Point – Types of Deviations & First-Response Protocols,Deviation Response Simulation,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a routine GMP audit in the Tablet Manufacturing Unit, you review the Batch Production Record (BPR-2025-050) against SOP-QA-043 (Tablet Mixing Protocol). You find that 3 out of 10 mixing log entries lack operator signatures, a minor deviation violating GMP 21 CFR Part 211.100 (Written Procedures; Deviations). Dr. Desai instructs you to document the deviation and propose first-response actions using the Deviation and Incident Report Form to prepare for an upcoming USFDA audit.
 
 Deliverables 
@@ -509,7 +505,6 @@ Use Deviation Form output for CAPA planning
 Open “Fillable Document” (CAPA Command Template)  
 Fill CAPA Template: Reference DEV-2025-131, detail corrective/preventive actions, plan verification. Submit via “Answer Portal”  
 Tip: Prioritize critical sterility deviation for audit-readiness; link IDs for traceability",10
-,,,,,,,,,,,,,,
 course_1,ch_1_06,les_1_06_01,task_1_06_01_1,Pro Training in QA/QC ,,AI-Augmented CAPA & Escalation Tactics,CAPA Command – Core Concepts & Regulatory Expectations,GMP Deviation Management and CAPA Implementation for Sterile Injectable Manufacturing,"You are a Junior Quality Control Analyst at Zenith Pharma Labs, reporting to Dr. Vikram Desai, QA Lead. During a GMP review in the Sterile Injectable Unit, you identify two deviations in the In-Process Control Log (LOG-2025-063) against SOP-QA-052 (Sterile Mixing Protocol): (1) 3/10 API dosing checks are out-of-spec (beyond ±3%, major deviation), and (2) 2/10 sterility tests show contamination (critical deviation). Dr. Desai instructs you to use the Deviation and Incident Report Form to document the critical sterility deviation, RCA, and containment, then the CAPA Command Template to detail corrective/preventive actions and effectiveness checks, ensuring USFDA GMP 21 CFR Part 211.100 compliance for a mock audit.
 
 Deliverables
@@ -611,7 +606,6 @@ Use Dashboard output for CAPA planning
 Open “Fillable Document” (CAPA Command Template)  
 Fill CAPA Template: Reference DEV-2025-148, detail corrective/preventive actions, plan verification/closure. Submit via “Answer Portal”  
 Tip: Prioritize sterility for global CAPA; link IDs for traceability",10
-,,,,,,,,,,,,,,
 course_2,ch_2_01,les_2_01_01,task_2_01_01_1,Pro Training in Pharmacovigilance ,"Monitor, evaluate, and manage drug safety to protect patients and ensure regulatory compliance.",Foundations of Pharmacovigilance,What is Pharmacovigilance?,ADR Case Documentation,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a report from a healthcare professional (HCP). A 40-year-old female patient developed a severe rash three days after starting paracetamol (500 mg, oral, three times daily) for a headache. She was hospitalized for one day and recovered. The HCP suspects paracetamol caused the rash. You must document the case within a 24-hour deadline.
 
 
@@ -781,7 +775,7 @@ Causality Assessment: Probable.
 Submission Date: Today.
 Follow-Up Notes: Not required.
 Submit: Complete all fields and submit by tomorrow.",10
-course_2,ch_2_01,les_2_01_10,task_2_01_10_1,Pro Training in Pharmacovigilance,,Foundations of Pharmacovigilance,Recap,Omegamentorship,,,,,,
+course_2,ch_2_01,les_2_01_10,task_2_01_10_1,Pro Training in Pharmacovigilance,,Foundations of Pharmacovigilance,Recap,no-task,,,,,,
 course_2,ch_2_02,les_2_02_01,task_2_02_01_1,Pro Training in Pharmacovigilance,,Individual Case Safety Reports (ICSR),ICSR Overview & Structure,ICSR Data Entry – Cetirizine-Induced Dizziness,"As a Drug Safety Associate at Apex Pharmaceuticals, you receive a spontaneous report from a healthcare professional (HCP). A 30-year-old female patient developed severe dizziness two days after starting cetirizine (10 mg, oral, once daily) for allergies. She was hospitalized for one day and recovered. The HCP suspects cetirizine caused the dizziness. You must document the case in an ICSR Data Entry Form by tomorrow.
 
 Deliverables
@@ -947,7 +941,6 @@ Open OMEGA Word and create a new document titled ""ICSR Closure Status Entry - C
 Enter the readiness status, missing items (if any), and follow-up in OMEGA Word.
 Ensure confidentiality per GDPR (EU), HIPAA (USA), UK Data Protection Act, India’s DPDP Act, and Singapore’s PDPA.
 Submit in OMEGA Word within 24 hours.",10
-,,,,,,,,,,,,,,
 course_2,ch_2_03,les_2_03_01,task_2_03_01_1,Pro Training in Pharmacovigilance,,Global PV Systems & Databases,Global PV Databases Overview,ICSR Closure Status Entry ICSR Closure Status Entry ,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in New Zealand. You are tasked with querying global PV databases for an AE from an ICSR based on a spontaneous report from a clinic in Singapore. The report details a patient who experienced nausea after taking metformin for type 2 diabetes. Using the VigiBase simulator and Grok (grok.com), you will query VigiBase for metformin-nausea data, reconcile with FAERS/EudraVigilance summaries from Grok, analyze 3-5 trends, and enter a simple signal summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like Medsafe (New Zealand), HSA (Singapore), FDA, MHRA, EMA, and CDSCO.
 
 Deliverables
@@ -1190,7 +1183,7 @@ Suggest a follow-up action (e.g., measure via patient feedback surveys).
 Open OMEGA Word and create a new document titled ""RMS Design Summary Entry - Case ID HP-2025-EU-001"".
 Enter the description, 3 points, and follow-up in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-course_2,ch_2_04,les_2_04_10,task_2_04_10_1,Pro Training in Pharmacovigilance,,Signal Detection & Risk Management,Signal Dashboards,Omegamentorship,,,,,,
+course_2,ch_2_04,les_2_04_10,task_2_04_10_1,Pro Training in Pharmacovigilance,,Signal Detection & Risk Management,Signal Dashboards,no-task,,,,,,
 course_2,ch_2_05,les_2_05_01,task_2_05_01_1,Pro Training in Pharmacovigilance,,Aggregate Safety Reporting,PSUR Overview & Requirements,PSUR Overview & Requirements,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in India. You are tasked with preparing a PSUR overview for a potential safety issue from an ICSR based on a spontaneous report from a clinic in Europe. The report details a patient who experienced gastrointestinal bleeding after taking ibuprofen for pain. Using the official VigiAccess website (vigiaccess.org) from WHO, you will query for ibuprofen-gastrointestinal bleeding data (e.g., report count, trends), then use Grok (grok.com) to generate a creative mini-PSUR storyboard (e.g., a text-based ""comic strip"" narrative of safety summary and benefit-risk), and enter a simple PSUR storyboard summary in OMEGA Word for submission, ensuring compliance with regulatory authorities like CDSCO (India), EMA (Europe), FDA, MHRA.
 
 Deliverables
@@ -1316,7 +1309,7 @@ Add your insight: Note one interesting takeaway from the matching process.
 Open OMEGA Word and create a new document titled ""PSUR Query Matching Puzzle - Case ID HP-2025-UK-US-001"".
 Enter the table and insight in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-course_2,ch_2_05,les_2_05_10,task_2_05_10_1,Pro Training in Pharmacovigilance,,Aggregate Safety Reporting,Periodic Report Automation,omegamentorship,,,,,,
+course_2,ch_2_05,les_2_05_10,task_2_05_10_1,Pro Training in Pharmacovigilance,,Aggregate Safety Reporting,Periodic Report Automation,no-task,,,,,,
 course_2,ch_2_06,les_2_06_01,task_2_06_01_1,Pro Training in Pharmacovigilance,,MedDRA Coding & Case Quality,MedDRA Hierarchy Overview,MedDRA Hierarchy Overview,"You are a Pharmacovigilance Trainee at Horizon Pharma, a company based in the UK. Your team is preparing a PSUR for paracetamol-related adverse events. In this ""Quick Code Quest,"" you’ll use the Zane MedDRA Simulation Tool (accessible at Tools Section ) to code three simple patient-reported adverse events into MedDRA Preferred Terms (PTs). You’ll verify one PT for accuracy and write a brief note for the PSUR, ensuring compliance with authorities like EMA (EU), FDA (USA), MHRA (UK), and CDSCO (India).
 
 Deliverables
@@ -1443,8 +1436,7 @@ Add your insight: Note one interesting or clear aspect of the version update pro
 Open OMEGA Word and create a document titled ""Version Update Adventure Log - Case ID HP-2025-UK-EU-012"".
 Enter the Update Log and insight in OMEGA Word.
 Submit in OMEGA Word within 24 hours.",10
-course_2,ch_2_06,les_2_06_10,task_2_06_10_1,Pro Training in Pharmacovigilance,,MedDRA Coding & Case Quality,MedDRA Version Updates,omegamentorship,,,,,,
-,,,,,,,,,,,,,,
+course_2,ch_2_06,les_2_06_10,task_2_06_10_1,Pro Training in Pharmacovigilance,,MedDRA Coding & Case Quality,MedDRA Version Updates,no-task,,,,,,
 course_3,ch_3_01,les_3_01_01,task_3_01_01_1,Pro Training in Clinical Research,Understand and execute end-to-end clinical trial operations with scientific rigor and ethical precision.,Foundations of Clinical Research & GCP Basics,Introduction to Clinical Research.,Write a Study Synopsis for the AstmaClear Phase II Trial,"You've just received an email from your supervisor at the CRO: ""Hey team, we're gearing up for the AstmaClear Phase II Trial. This is a key step to evaluate the efficacy of AstmaClear—an oral anti-inflammatory tablet designed to reduce airway inflammation—in reducing asthma symptoms and its overall safety compared to a placebo. 
 
 We'll target adults aged 18-65 with moderate asthma, who've been diagnosed for at least one year and have no recent hospitalizations. The intervention involves participants taking a 10 mg AstmaClear tablet daily for 12 weeks, or a matching placebo. Key stakeholders include ClearPharma as the sponsor, our Apex CRO team, the site investigators, and of course, the enrolled patients. We're expecting outcomes like reduced asthma symptoms (think less wheezing and shortness of breath) and decreased reliance on rescue inhalers, all with minimal side effects such as mild nausea. 
@@ -1677,7 +1669,6 @@ Write the Explanation:
     - Use simple language and reference Lesson 10 content or the scenario.
 Submit the Deliverable:
     - Paste the final draft in OMEGA WORD & submit.",
-,,,,Pro Training in Clinical Research,,,,,,,,,,10
 course_3,ch_3_02,les_3_02_01,task_3_02_01_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Structure Overview.,Protocol Summary Submission,"You are a junior clinical research assistant at VitaHealth Solutions, working on a clinical trial for CardioVita, a new drug to lower blood pressure in patients with hypertension. Your team is developing the trial protocol, the official blueprint for the study, and needs you to complete a protocol summary to outline key elements of the trial.
 
 Deliverables
@@ -1888,8 +1879,7 @@ Create the Deliverable:
     - Export as a PDF named `Stat_Report_[YourName].pdf`.
 Submit the Deliverable:
     - Upload the PDF in ΩMEGA WORD",10
-course_3,ch_3_02,les_3_02_10,task_3_02_10_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Review & Approval.,omegamentorship,,,,,,10
-,,,,Pro Training in Clinical Research,,,,,,,,,,
+course_3,ch_3_02,les_3_02_10,task_3_02_10_1,Pro Training in Clinical Research,,Clinical Trial Protocol Development,Protocol Review & Approval.,no-task,,,,,,10
 course_3,ch_3_03,les_3_03_01,task_3_03_01_1,Pro Training in Clinical Research,,Site Selection & Study Start-Up,Site Selection Criteria.,Site Selection Criteria Task,"As a Clinical Research Coordinator at Zenith Clinical Solutions, you are tasked with evaluating three shortlisted sites for a Phase III clinical trial of OncoVax, an immunotherapy for Stage II colorectal cancer. Dr. Emily Chen, your supervisor, requires a data-driven recommendation to select the most suitable site based on standardized criteria.
 
 Deliverables
@@ -2026,7 +2016,6 @@ Use AI Text Generator for Diagnosis: Access a free web-based AI text generator (
     - Generate a brief solution (50–75 words each) for each pitfall, explaining how to address it.
     - Paste the pitfalls and solutions into OMEGA WORD.
  Submit in OMEGA WORD ",10
-,,,,Pro Training in Clinical Research,,,,,,,,,,
 course_3,ch_3_04,les_3_04_01,task_3_04_01_1,Pro Training in Clinical Research,,Patient Recruitment & Informed Consent,Recruitment Strategies Overview.,Designing a Recruitment Strategy for a Phase II Oncology Trial,"You are the clinical trial coordinator for a Phase II clinical trial evaluating a new immunotherapy drug for patients with non-small cell lung cancer (NSCLC) in the United States. The trial requires 150 participants aged 18–75 with stage III or IV NSCLC who have not responded to first-line chemotherapy. The trial is conducted across five sites in urban and suburban areas. Recruitment has been slow, with only 30 participants enrolled after three months, against a target completion within six months. The sponsor has allocated a modest budget for recruitment activities, and you must ensure compliance with FDA regulations and ethical guidelines.
 
 Deliverables
@@ -2229,7 +2218,6 @@ Compile Deliverables:
     - Submit the identified ethical risk.
     - Include the brief proposal as a separate section.
     - Submit in OMEGA WORD or upload a pdf into OMEGA.",10
-,,,,Pro Training in Clinical Research,,,,,,,,,,
 course_3,ch_3_05,les_3_05_01,task_3_05_01_1,Pro Training in Clinical Research,,Data Collection & Case Report Forms (CRFs),CRF Design Principles.,Reviewing CRF Design for a Phase III Hypertension Trial,"You are a clinical research coordinator at a trial site in Dublin, Ireland, managed by ICOM Clinical Solutions, a contract research organization with offices in Sandyford, Dublin. The Phase III clinical trial evaluates a new antihypertensive drug for patients with uncontrolled hypertension, aiming to enroll 120 participants aged 30–70 years across three sites: Dublin (St. James’s Hospital), Cork (Cork University Hospital), and Galway (University Hospital Galway). As part of CRF development, you are tasked with reviewing a draft electronic Case Report Form (eCRF) to identify one design flaw and propose a correction to ensure data accuracy and compliance.
 
 Deliverables
@@ -2402,7 +2390,6 @@ Compile Deliverables:
     - Make the EDC user access plan table.
     - Include the brief explanation as a separate section.
     - Submit in OMEGA WORD or upload a pdf into OMEGA.",10
-,,,,Pro Training in Clinical Research,,,,,,,,,,
 course_3,ch_3_06,les_3_06_01,task_3_06_01_1,Pro Training in Clinical Research,,Monitoring & Site Management,Monitoring Plan Development.,Creating a Monitoring Visit Schedule for a Phase III Diabetes Trial,"You are a clinical research associate (CRA) at a trial site in Dublin, Ireland, managed by Dublinary Clinical Research Ltd., a contract research organization with offices in Temple Bar, Dublin. The Phase III clinical trial evaluates a new insulin therapy for patients with type 1 diabetes, aiming to enroll 100 participants aged 18–65 years at St. James’s Hospital, Dublin. Your task is to create a monitoring visit schedule for the site, specifying the timing and type of visits to ensure data quality and participant safety.
 
 Deliverables
@@ -2573,7 +2560,6 @@ Compile Deliverables:
     - Make the appropriate email response.
     - Include the brief explanation as a separate section.
     - Submit in OMEGA WORD or upload a pdf into OMEGA.",10
-,,,,,,,,,,,,,,
 course_4,ch_4_01,les_4_01_01,task_4_01_01_1,Pro Training in Regulatory Affairs,Navigate complex regulatory landscapes to achieve approvals and maintain compliance efficiently.,,,,,,,,,
 course_4,ch_4_01,les_4_01_02,task_4_01_02_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_01,les_4_01_03,task_4_01_03_1,Pro Training in Regulatory Affairs,,,,,,,,,,
@@ -2583,7 +2569,6 @@ course_4,ch_4_01,les_4_01_06,task_4_01_06_1,Pro Training in Regulatory Affairs,,
 course_4,ch_4_01,les_4_01_07,task_4_01_07_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_01,les_4_01_08,task_4_01_08_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_01,les_4_01_09,task_4_01_09_1,Pro Training in Regulatory Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_4,ch_4_02,les_4_02_01,task_4_02_01_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_02,les_4_02_02,task_4_02_02_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_02,les_4_02_03,task_4_02_03_1,Pro Training in Regulatory Affairs,,,,,,,,,,
@@ -2594,7 +2579,6 @@ course_4,ch_4_02,les_4_02_07,task_4_02_07_1,Pro Training in Regulatory Affairs,,
 course_4,ch_4_02,les_4_02_08,task_4_02_08_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_02,les_4_02_09,task_4_02_09_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_02,les_4_02_10,task_4_02_10_1,Pro Training in Regulatory Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_4,ch_4_03,les_4_03_01,task_4_03_01_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_03,les_4_03_02,task_4_03_02_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_03,les_4_03_03,task_4_03_03_1,Pro Training in Regulatory Affairs,,,,,,,,,,
@@ -2605,7 +2589,6 @@ course_4,ch_4_03,les_4_03_07,task_4_03_07_1,Pro Training in Regulatory Affairs,,
 course_4,ch_4_03,les_4_03_08,task_4_03_08_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_03,les_4_03_09,task_4_03_09_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_03,les_4_03_10,task_4_03_10_1,Pro Training in Regulatory Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_4,ch_4_04,les_4_04_01,task_4_04_01_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_04,les_4_04_02,task_4_04_02_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_04,les_4_04_03,task_4_04_03_1,Pro Training in Regulatory Affairs,,,,,,,,,,
@@ -2616,7 +2599,6 @@ course_4,ch_4_04,les_4_04_07,task_4_04_07_1,Pro Training in Regulatory Affairs,,
 course_4,ch_4_04,les_4_04_08,task_4_04_08_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_04,les_4_04_09,task_4_04_09_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_04,les_4_04_10,task_4_04_10_1,Pro Training in Regulatory Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_4,ch_4_05,les_4_05_01,task_4_05_01_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_05,les_4_05_02,task_4_05_02_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_05,les_4_05_03,task_4_05_03_1,Pro Training in Regulatory Affairs,,,,,,,,,,
@@ -2627,7 +2609,6 @@ course_4,ch_4_05,les_4_05_07,task_4_05_07_1,Pro Training in Regulatory Affairs,,
 course_4,ch_4_05,les_4_05_08,task_4_05_08_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_05,les_4_05_09,task_4_05_09_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_05,les_4_05_10,task_4_05_10_1,Pro Training in Regulatory Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_4,ch_4_06,les_4_06_01,task_4_06_01_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_06,les_4_06_02,task_4_06_02_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_06,les_4_06_03,task_4_06_03_1,Pro Training in Regulatory Affairs,,,,,,,,,,
@@ -2638,7 +2619,6 @@ course_4,ch_4_06,les_4_06_07,task_4_06_07_1,Pro Training in Regulatory Affairs,,
 course_4,ch_4_06,les_4_06_08,task_4_06_08_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_06,les_4_06_09,task_4_06_09_1,Pro Training in Regulatory Affairs,,,,,,,,,,
 course_4,ch_4_06,les_4_06_10,task_4_06_10_1,Pro Training in Regulatory Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_5,ch_5_01,les_5_01_01,task_5_01_01_1,Pro Training in Medical Affairs,Bridge clinical evidence and strategy to support medical decision-making and stakeholder engagement.,,,,,,,,,
 course_5,ch_5_01,les_5_01_02,task_5_01_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_01,les_5_01_03,task_5_01_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -2648,7 +2628,6 @@ course_5,ch_5_01,les_5_01_06,task_5_01_06_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_01,les_5_01_07,task_5_01_07_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_01,les_5_01_08,task_5_01_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_01,les_5_01_09,task_5_01_09_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_02,les_5_02_01,task_5_02_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_02,les_5_02_02,task_5_02_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_02,les_5_02_03,task_5_02_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -2659,7 +2638,6 @@ course_5,ch_5_02,les_5_02_07,task_5_02_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_02,les_5_02_08,task_5_02_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_02,les_5_02_09,task_5_02_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_02,les_5_02_10,task_5_02_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_5,ch_5_03,les_5_03_01,task_5_03_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_03,les_5_03_02,task_5_03_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_03,les_5_03_03,task_5_03_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -2670,7 +2648,6 @@ course_5,ch_5_03,les_5_03_07,task_5_03_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_03,les_5_03_08,task_5_03_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_03,les_5_03_09,task_5_03_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_03,les_5_03_10,task_5_03_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_5,ch_5_04,les_5_04_01,task_5_04_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_04,les_5_04_02,task_5_04_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_04,les_5_04_03,task_5_04_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -2681,7 +2658,6 @@ course_5,ch_5_04,les_5_04_07,task_5_04_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_04,les_5_04_08,task_5_04_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_04,les_5_04_09,task_5_04_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_04,les_5_04_10,task_5_04_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_5,ch_5_05,les_5_05_01,task_5_05_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_05,les_5_05_02,task_5_05_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_05,les_5_05_03,task_5_05_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -2692,7 +2668,6 @@ course_5,ch_5_05,les_5_05_07,task_5_05_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_05,les_5_05_08,task_5_05_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_05,les_5_05_09,task_5_05_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_05,les_5_05_10,task_5_05_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_5,ch_5_06,les_5_06_01,task_5_06_01_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_06,les_5_06_02,task_5_06_02_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_06,les_5_06_03,task_5_06_03_1,Pro Training in Medical Affairs,,,,,,,,,,
@@ -2703,7 +2678,6 @@ course_5,ch_5_06,les_5_06_07,task_5_06_07_1,Pro Training in Medical Affairs,,,,,
 course_5,ch_5_06,les_5_06_08,task_5_06_08_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_06,les_5_06_09,task_5_06_09_1,Pro Training in Medical Affairs,,,,,,,,,,
 course_5,ch_5_06,les_5_06_10,task_5_06_10_1,Pro Training in Medical Affairs,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_6,ch_6_01,les_6_01_01,task_6_01_01_1,Pro Training in Clinical Data Management,"Organize, validate, and analyze clinical trial data to enable accurate and reliable study outcomes.",,,,,,,,,
 course_6,ch_6_01,les_6_01_02,task_6_01_02_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_01,les_6_01_03,task_6_01_03_1,Pro Training in Clinical Data Management,,,,,,,,,,
@@ -2713,7 +2687,6 @@ course_6,ch_6_01,les_6_01_06,task_6_01_06_1,Pro Training in Clinical Data Manage
 course_6,ch_6_01,les_6_01_07,task_6_01_07_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_01,les_6_01_08,task_6_01_08_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_01,les_6_01_09,task_6_01_09_1,Pro Training in Clinical Data Management,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_6,ch_6_02,les_6_02_01,task_6_02_01_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_02,les_6_02_02,task_6_02_02_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_02,les_6_02_03,task_6_02_03_1,Pro Training in Clinical Data Management,,,,,,,,,,
@@ -2724,7 +2697,6 @@ course_6,ch_6_02,les_6_02_07,task_6_02_07_1,Pro Training in Clinical Data Manage
 course_6,ch_6_02,les_6_02_08,task_6_02_08_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_02,les_6_02_09,task_6_02_09_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_02,les_6_02_10,task_6_02_10_1,Pro Training in Clinical Data Management,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_6,ch_6_03,les_6_03_01,task_6_03_01_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_03,les_6_03_02,task_6_03_02_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_03,les_6_03_03,task_6_03_03_1,Pro Training in Clinical Data Management,,,,,,,,,,
@@ -2735,7 +2707,6 @@ course_6,ch_6_03,les_6_03_07,task_6_03_07_1,Pro Training in Clinical Data Manage
 course_6,ch_6_03,les_6_03_08,task_6_03_08_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_03,les_6_03_09,task_6_03_09_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_03,les_6_03_10,task_6_03_10_1,Pro Training in Clinical Data Management,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_6,ch_6_04,les_6_04_01,task_6_04_01_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_04,les_6_04_02,task_6_04_02_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_04,les_6_04_03,task_6_04_03_1,Pro Training in Clinical Data Management,,,,,,,,,,
@@ -2746,7 +2717,6 @@ course_6,ch_6_04,les_6_04_07,task_6_04_07_1,Pro Training in Clinical Data Manage
 course_6,ch_6_04,les_6_04_08,task_6_04_08_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_04,les_6_04_09,task_6_04_09_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_04,les_6_04_10,task_6_04_10_1,Pro Training in Clinical Data Management,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_6,ch_6_05,les_6_05_01,task_6_05_01_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_05,les_6_05_02,task_6_05_02_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_05,les_6_05_03,task_6_05_03_1,Pro Training in Clinical Data Management,,,,,,,,,,
@@ -2757,7 +2727,6 @@ course_6,ch_6_05,les_6_05_07,task_6_05_07_1,Pro Training in Clinical Data Manage
 course_6,ch_6_05,les_6_05_08,task_6_05_08_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_05,les_6_05_09,task_6_05_09_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_05,les_6_05_10,task_6_05_10_1,Pro Training in Clinical Data Management,,,,,,,,,,
-,,,,,,,,,,,,,,
 course_6,ch_6_06,les_6_06_01,task_6_06_01_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_06,les_6_06_02,task_6_06_02_1,Pro Training in Clinical Data Management,,,,,,,,,,
 course_6,ch_6_06,les_6_06_03,task_6_06_03_1,Pro Training in Clinical Data Management,,,,,,,,,,
